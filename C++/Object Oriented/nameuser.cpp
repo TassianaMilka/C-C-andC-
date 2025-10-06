@@ -19,7 +19,7 @@ class nameuser{//Name class
 int main()
 {
 
-    //Information about name,nickname and age people
+    //Information about name,nickname and age girl/woman
     nameuser nameUser;
     nameUser.Name="Tassiana Milka";
     nameUser.Nickname ="Milka,Tassi or Tata";
