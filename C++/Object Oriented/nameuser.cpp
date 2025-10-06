@@ -1,4 +1,6 @@
 
+//Create  about  one user with name,nickname and age.
+
 #include <iostream>
 #include <list>
 using namespace std;
